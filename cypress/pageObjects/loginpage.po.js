@@ -13,6 +13,10 @@ class loginPage{
         return 'Invalid credentials'
     }
 
+    dummy(){
+
+        return 'Invalid credentials'
+    }
     loginwithcreds(username, password){
 
         cy.visit("/web/index.php/auth/login")
