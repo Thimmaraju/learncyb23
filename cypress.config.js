@@ -8,7 +8,7 @@ module.exports = defineConfig({
   e2e: {
 
     //specPattern: "cypress/e2e/**/*.dbsqa.{js,jsx,ts,tsx}",
-    "specPattern": "**/*.feature",
+    //"specPattern": "**/*.feature",
     projectId: "nmuytx",
     "baseUrl":"https://opensource-demo.orangehrmlive.com",
     "watchForFileChanges": false,

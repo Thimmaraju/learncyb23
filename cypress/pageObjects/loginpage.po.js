@@ -27,6 +27,8 @@ class loginPage{
 
 }
 
+
+
 const login = new loginPage()
 
 export default login
